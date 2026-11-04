@@ -1,0 +1,1 @@
+print('Soekarno pernah berkata, “Beri aku 1,000 orang tua, niscaya akan kucabut Semeru dari akarnya. Beri aku 10 pemuda, niscaya akan kuguncangkan dunia.”')
